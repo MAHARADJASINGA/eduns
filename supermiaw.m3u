@@ -17,7 +17,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1620309619~acl=/hls-p/ingest_204_*
 https://etslive-2-vidio-com.akamaized.net/exp=1620309620~acl=/hls-p/ingest_205_*/*~hmac=29d09e2b4eb99edd9b206d137183c55148fc31c30c5304b820ccab165c961cac/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 "INDO",CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
-#EXTINF:-1 "INDO",
+#EXTM3U
 #EXTINF:-1 "PENGETAHUAN",CHINESE DRAMA
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 "INDO",JTV
