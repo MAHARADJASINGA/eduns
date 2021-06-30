@@ -1,4 +1,88 @@
 #EXTM3U
+#EXTINF:0 tvg-id="Metro.pl" group-title="Lokal",Metro TV
+http://dituduhmaling.xyz/US33T4/metrotv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=metro
+
+#EXTINF:0 tvg-id="NETtv.svn" group-title="Lokal",NET TV
+http://dituduhmaling.xyz/US33T4/net.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=nettv
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal",Rajawali TV
+http://dituduhmaling.xyz/US33T4/rtv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=rtv
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Lokal",Kompas tv
+http://dituduhmaling.xyz/US33T4/kompastv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=kompastv
+#EXTINF:0 tvg-id="ext" group-title="Lokal",JITV
+http://dituduhmaling.xyz/US33T4/jitv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=jitv
+#EXTINF:0 tvg-id="ext" group-title="Lokal",Insert
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=insert
+http://topwin-tv.my.id/2/master.m3u8?id=insert
+#EXTINF:0 tvg-id="ext" group-title="Lokal",ANTARA TV
+http://dituduhmaling.xyz/US33T4/antara.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=antara
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useephoto.png" group-title="Lokal",Usee Photo
+http://dituduhmaling.xyz/US33T4/useephoto.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=useephoto
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useeprime.png" group-title="Lokal",Usee Prime
+http://dituduhmaling.xyz/US33T4/useeprime.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=useeprime
+#EXTINF:0 tvg-id="ext" group-title="Lokal",BALI TV
+http://dituduhmaling.xyz/US33T4/balitv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=balitv
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="Lokal",JAK TV
+http://dituduhmaling.xyz/US33T4/jaktv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=jaktv
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="Lokal",JTV
+http://dituduhmaling.xyz/US33T4/jtv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=jtv
+
+#EXTINF:0 tvg-id="ext" group-title="Lokal",TVRI
+http://dituduhmaling.xyz/US33T4/tvri.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=tvri
+#EXTINF:0 tvg-id="ext" group-title="Lokal",DAAI TV
+http://dituduhmaling.xyz/US33T4/daaitv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=daaitv
+
+
+#EXTINF:0 tvg-id="ext" group-title="Lokal",MNC Shop
+http://dituduhmaling.xyz/US33T4/mncshop.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=mncshop
+#EXTINF:0 tvg-id="ext" group-title="Lokal",My TV
+http://dituduhmaling.xyz/US33T4/mytv.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=mytv
+#EXTINF:0 tvg-id="ext" group-title="Lokal",ID Ku
+http://dituduhmaling.xyz/US33T4/idku.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=idku
+
+#EXTINF:0 tvg-id="ext" group-title="Religi",Rodja TV
+http://dituduhmaling.xyz/US33T4/rodjatv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religi",Tawaf TV
+http://dituduhmaling.xyz/US33T4/tawaftv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religi",MTA TV
+http://dituduhmaling.xyz/US33T4/mtatv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religi",MUI TV
+http://dituduhmaling.xyz/US33T4/muitv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religi",AL Quran AL Kareem
+http://dituduhmaling.xyz/US33T4/alquran.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religi",MQTV
+http://dituduhmaling.xyz/US33T4/mqtv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religi",TV9 NU
+http://dituduhmaling.xyz/US33T4/tv9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religi",Muhammadiyah TV
+http://dituduhmaling.xyz/US33T4/muhammadiyahtv.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/tawaf.png" group-title="Religi,Religi: U Channel
+http://dituduhmaling.xyz/US33T4/uchannel.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/mta.png" group-title="Religi",AlJazeera
+http://dituduhmaling.xyz/US33T4/aljazeera.m3u8
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/mta.png" group-title="Religi",Dai TV
+http://dituduhmaling.xyz/US33T4/daaitv.m3u8
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",CNN INDONESIA  
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",SCTV 2  
